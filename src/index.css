@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-display: 'Plus Jakarta Sans', sans-serif;
+    
+    /* Revolut-style design.md palette */
+    --color-primary: #494fdf;
+    --color-primary-bright: #4f55f1;
+    --color-primary-deep: #3a40c4;
+    
+    --color-canvas-dark: #000000;
+    --color-surface-deep: #0a0a0a;
+    --color-surface-elevated: #16181a;
+    --color-surface-card: #ffffff;
+    
+    /* BizHub Unit Accent Colors */
+    --unit-internationalization: #e11d48;
+    --unit-real-estate: #007bc2;
+    --unit-tax: #00a87e;
+    --unit-software: #494fdf;
+    --unit-concierge: #d4af37;
+    --unit-representations: #8d969e;
+  }
+  
+  html {
+    font-family: var(--font-sans);
+    scroll-behavior: smooth;
+    background-color: #000000;
+  }
+  
+  body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+::-webkit-scrollbar-thumb {
+  background: #26292d;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #494fdf;
+}

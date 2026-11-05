@@ -1,0 +1,8 @@
+{
+  "name": "BizHub Business Intelligence - Expansão EUA",
+  "description": "Holding boutique especializada em inteligência estratégica, expansão internacional e estruturação empresarial entre Brasil e Estados Unidos. Diagnóstico e avaliação de viabilidade executiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

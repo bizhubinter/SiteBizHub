@@ -1,0 +1,52 @@
+[
+  {
+    "id": "lead_1793824425951_yqsg3",
+    "createdAt": "2026-11-04T20:33:45.951Z",
+    "fullName": "Carlos Eduardo Mendes",
+    "email": "carlos.mendes@agrobrasilexport.com.br",
+    "phone": "+55 11 98765-4321",
+    "roleTitle": "Diretor Executivo / Sócio",
+    "companyName": "AgroBrasil Soluções Tecnológicas Ltda.",
+    "cnpj": "12.345.678/0001-90",
+    "website": "https://www.agrobrasilexport.com.br",
+    "industry": [
+      "Tecnologia",
+      "Indústria"
+    ],
+    "operationTime": "5 a 10 anos",
+    "employeesCount": "38",
+    "annualRevenue": "R$ 5 milhões a R$ 10 milhões",
+    "motivation": [
+      "Aumentar vendas / alcançar novos mercados",
+      "Obter vantagens fiscais / cambiais"
+    ],
+    "hasForeignPartners": true,
+    "foreignPartnersDetail": "Contato preliminar com distribuidor na Flórida e Geórgia",
+    "expectedResult": "Estruturar subsidiária na Flórida com estoque local e visto de transferência de executivos",
+    "alreadyExports": false,
+    "exportsDetail": "",
+    "productAdapted": "Parcialmente",
+    "taxAccountingOrganized": "SIM",
+    "financialReserveReady": "SIM, já definido",
+    "internalResponsibleReady": "SIM, já definido",
+    "teamEnglishFluent": true,
+    "foreignEntityOpened": false,
+    "stage": "Quero estruturar um plano nos próximos 6 meses",
+    "servicesNeeded": [
+      "Estudo de mercado e viabilidade",
+      "Plano de negócios internacional",
+      "Registro de empresa e estrutura jurídica"
+    ],
+    "referralSource": [
+      "LinkedIn",
+      "Indicação de parceiro/amigo"
+    ],
+    "preferredMeetingDate": "Quarta-feira pela tarde",
+    "notes": "",
+    "readinessScore": 96,
+    "readinessLevel": "Alta Prontidão",
+    "status": "Novo",
+    "adminNotes": "",
+    "estimatedBudgetProposal": ""
+  }
+]
